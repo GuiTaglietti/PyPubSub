@@ -27,8 +27,8 @@ Para rodar este projeto, você precisa de:
 ### Passo 1: Clone o repositório
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
-cd `NOME_DO_DIRETORIO>
+git clone https://github.com/GuiTaglietti/PyPubSub.git
+cd PyPubSub
 ```
 
 ### Passo 2: Inicie o servidor de distribuição
